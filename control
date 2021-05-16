@@ -1,0 +1,10 @@
+Package: de.vincentschweiger.msgtxtchanger
+Name: MessagesTextChanger
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Change the text of the two titles! Useless but i don't care
+Maintainer: Vento
+Author: Vento
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), de.vincentschweiger.libcosmo (>= 0.0.1)
+Depiction: https://aptrepo.github.io/depictions/?p=de.vincentschweiger.msgtxtchanger
